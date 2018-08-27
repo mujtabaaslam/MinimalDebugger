@@ -1,7 +1,7 @@
 # MinimalDebugger
 ## Authors: Eli Salm, Zoe Grubbs, Mujtaba Aslam
 
-A minimal deubgger that catches segmentation faults and provides useful information to help the user debug them. The debugger also provides an option to set a breakpoint before the prgram is executed.  
+A minimal debugger that catches segmentation faults and provides useful information to help the user debug them. The debugger also provides an option to set a breakpoint before the program is executed.  
 
 Usage:
 `./gdb ./[program]` where program is the program to be debugged. For example, run `make` in the src directory and then `./gdb ./seg`
